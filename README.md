@@ -52,7 +52,9 @@ The project provides predictions for heart disease based on the input features. 
 There are several ways to improve the model and the project:
 
 -Explore more advanced machine learning techniques.
+
 -Fine-tune hyperparameters for better model performance.
+
 -Gather more labeled data for improved accuracy.
 
 ## References
